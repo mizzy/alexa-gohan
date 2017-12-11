@@ -1,0 +1,10 @@
+{
+  "name": "alexa-gohan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@line/bot-sdk": "^5.2.0",
+    "alexa-sdk": "^1.0.23"
+  }
+}
