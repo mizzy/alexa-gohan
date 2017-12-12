@@ -1,6 +1,7 @@
 # alexa-gohan
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wxj7vpirw-k" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+[![alexa-gohan](http://img.youtube.com/vi/wxj7vpirw-k/0.jpg)](http://www.youtube.com/watch?v=wxj7vpirw-k "alexa-gohan")
 
 ## これは何？
 
