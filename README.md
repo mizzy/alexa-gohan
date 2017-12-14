@@ -47,7 +47,7 @@ exports.handler = (event, context, callback) => {
 
 ### zip で固めてアップロード
 
-作成した `user.js` を含めて zip に固めてアップロードする。
+`yarn install` してから `user.js` も含めて zip に固めてアップロードする。
 
 ---
 
